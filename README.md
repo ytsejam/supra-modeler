@@ -1,12 +1,15 @@
 # Supra Modeler
 
-NURBS/BRep direct modeling inside Autodesk Maya.
+NURBS direct modeling inside Maya.
+CAD-grade BRep tools, DCC workflow.
 
-Built on [OpenCASCADE Technology](https://dev.opencascade.org/) — the same kernel used by FreeCAD, Salome, and most serious open-source CAD tools. Runs as a native Maya plugin (.mll), no separate process, no bridge.
+Built on OpenCASCADE. Runs as a native Maya plugin (.mll).
 
-The goal is simple: Plasticity-style direct modeling workflows for people who live inside Maya. Hard surface, automotive, visualization. Designed at Dallara Automobili.
+→ Download: https://github.com/ytsejam/supra-modeler/releases
+→ Bug reports & feature requests: open an issue here on GitHub
+→ Contact: beta@msd-suite.com
 
----
+Made by Dario Ortisi — msd-suite.com
 
 ## Status
 
