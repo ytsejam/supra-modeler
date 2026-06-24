@@ -1,0 +1,39 @@
+# Supra Modeler — .gitignore
+# Mai committare sorgenti C++ o binari build intermedi
+
+# Sorgenti C++ — MAI nel repo pubblico
+*.cpp
+*.h
+*.hpp
+*.c
+CMakeLists.txt
+*.vcxproj
+*.sln
+
+# Build output
+*.obj
+*.lib
+*.pdb
+*.ilk
+build/
+Release/
+Debug/
+
+# Maya
+*.mll
+*.mel
+*.pyc
+__pycache__/
+
+# Zip release — vanno come GitHub Release Assets, non nel repo
+*.zip
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vs/
+*.user

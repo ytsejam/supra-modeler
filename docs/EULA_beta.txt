@@ -1,0 +1,48 @@
+SUPRA MODELER — BETA END USER LICENSE AGREEMENT
+================================================
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING SUPRA MODELER.
+BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THESE TERMS.
+
+1. PARTIES
+   This agreement is between you ("User") and Dario Ortisi / MSD Suite ("MSD Suite").
+
+2. BETA SOFTWARE
+   Supra Modeler is pre-release software provided for evaluation purposes only.
+   It may contain bugs, incomplete features, and may change significantly before
+   commercial release. It is NOT suitable for production use.
+
+3. GRANT OF LICENSE
+   MSD Suite grants you a personal, non-exclusive, non-transferable license to
+   install and use Supra Modeler on a single computer for evaluation purposes
+   during the beta period.
+
+4. BETA KEY
+   Your beta key (SUPRA-BETA-XXXXXXXX) is personal and non-transferable.
+   Do not share your beta key or the software with others.
+
+5. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, or share this software or your beta key
+   - Reverse engineer, decompile, or disassemble the software
+   - Use the software for commercial production without written consent
+   - Remove or alter copyright notices
+
+6. FEEDBACK
+   Any feedback, bug reports, or suggestions you provide may be used by MSD Suite
+   to improve the software without any obligation to you.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+   USE AT YOUR OWN RISK.
+
+8. TERMINATION
+   This license expires at the end of the beta period or immediately upon
+   violation of any term. The commercial release will require a separate license.
+
+9. CONTACT
+   beta@msd-suite.com
+   msd-suite.com
+
+================================================
+MSD Suite — Copyright (c) 2024-2025 Dario Ortisi
