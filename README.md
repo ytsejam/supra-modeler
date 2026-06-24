@@ -12,7 +12,7 @@ The goal is simple: Plasticity-style direct modeling workflows for people who li
 
 **Public Beta** — free to download, bugs expected.
 
-→ Get the beta: https://msd-suite.com/supra-beta
+→ Get the beta: https://github.com/ytsejam/supra-modeler/releases
 
 ---
 
