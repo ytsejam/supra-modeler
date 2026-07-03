@@ -1,24 +1,16 @@
 # Supra Modeler
-
 NURBS/BRep direct modeling for Maya 2025.
-
 Built on OpenCASCADE. Inspired by Plasticity.
 
-## Beta
-Free download. Windows only. Maya 2025.
+[Download latest](https://github.com/ytsejam/supra-modeler/releases/latest)
 
-[Download](https://github.com/ytsejam/supra-modeler/releases/latest)
+**Requirements:** Maya 2025 · Windows 10/11 x64
 
-## Requirements
-- Maya 2025
-- Windows 10/11 x64
-
-## Install
-1. Load MSD_Supra_Modeler.mll in Maya Plugin Manager
+**Install:**
+1. Load MSD_Supra_Modeler.mll in Plugin Manager
 2. Run launch_supra.py in Script Editor
 
-## Contact
-info@msd-suite.com
+**Feedback:** info@msd-suite.com
 
 ---
 
