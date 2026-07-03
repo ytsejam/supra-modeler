@@ -6,7 +6,9 @@ Built on OpenCASCADE. Inspired by Plasticity.
 
 [Download latest](https://github.com/ytsejam/supra-modeler/releases/latest)
 
-**SHA256:** `f300b5478775405ddfcdcb26b52cc47344fe88b3b8bfff9cd6cc719bed2e02cb`  
+**SHA256 (zip download):** `51440297c42eaa21cb8830fd2ed7ea92bc31ca425eaa5ecf9082ecbfde054f02`
+
+**SHA256 (MSD_Supra_Modeler.mll, signed):** `f300b5478775405ddfcdcb26b52cc47344fe88b3b8bfff9cd6cc719bed2e02cb`  
 [Verify on VirusTotal](https://www.virustotal.com/gui/file/f300b5478775405ddfcdcb26b52cc47344fe88b3b8bfff9cd6cc719bed2e02cb)
 
 **Requirements:** Maya 2025 · Windows 10/11 x64
