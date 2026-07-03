@@ -1,4 +1,6 @@
 # Supra Modeler
+![Supra Modeler](supraThumblink.jpg)
+
 NURBS/BRep direct modeling for Maya 2025.
 Built on OpenCASCADE. Inspired by Plasticity.
 
