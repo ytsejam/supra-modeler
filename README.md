@@ -1,58 +1,24 @@
 # Supra Modeler
 
-NURBS direct modeling inside Maya.
-CAD-grade BRep tools, DCC workflow.
+NURBS/BRep direct modeling for Maya 2025.
 
-Built on OpenCASCADE. Runs as a native Maya plugin (.mll).
+Built on OpenCASCADE. Inspired by Plasticity.
 
-→ Download: https://github.com/ytsejam/supra-modeler/releases
-→ Bug reports & feature requests: open an issue here on GitHub
-→ Contact: beta@msd-suite.com
+## Beta
+Free download. Windows only. Maya 2025.
 
-Made by Dario Ortisi — msd-suite.com
-
-## Status
-
-**Public Beta** — free to download, bugs expected.
-
-→ Get the beta: https://github.com/ytsejam/supra-modeler/releases
-
----
-
-## What it does
-
-- BRep solid and shell modeling
-- Boolean operations (union, cut, intersect)
-- Fillet, chamfer, bevel
-- Face extrude, profile extrude, revolve
-- Loft, patch from curves, bridge
-- Fill hole G0/G1
-- 2D curve toolset — circle, arc, ellipse, rect, spline CV/EP, fillet, offset, join, extend
-- Imprint and trim on shells
-- Shift+click multi-select edge/face
-- DWG/DXF import
-- 50-level undo
+[Download](https://github.com/ytsejam/supra-modeler/releases/latest)
 
 ## Requirements
-
-- Autodesk Maya 2025
+- Maya 2025
 - Windows 10/11 x64
 
----
+## Install
+1. Load MSD_Supra_Modeler.mll in Maya Plugin Manager
+2. Run launch_supra.py in Script Editor
 
-## Download
-
-https://msd-suite.com/supra-beta
-
-Register with your email, get the download link immediately.
-
----
-
-## Bug reports & feature requests
-
-Use GitHub Issues: https://github.com/ytsejam/supra-modeler/issues
-
-No Jira, no forms, just open an issue. Be specific — what you did, what happened, what you expected. Script Editor output is always helpful.
+## Contact
+info@msd-suite.com
 
 ---
 
