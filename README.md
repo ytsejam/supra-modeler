@@ -19,6 +19,8 @@ Built on OpenCASCADE. Inspired by Plasticity.
 
 **Feedback:** info@msd-suite.com
 
+**Discord:** https://discord.gg/ZKrj3WrBs
+
 ---
 
 ## LGPL Compliance
