@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/supraIcon_512.png" width="200" alt="Supra Modeler logo">
+</p>
+
 # Supra Modeler
 ![Supra Modeler](supraThumblink.jpg)
 
