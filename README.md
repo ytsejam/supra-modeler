@@ -5,17 +5,22 @@
 # Supra Modeler
 ![Supra Modeler](supraThumblink.jpg)
 
-NURBS/BRep direct modeling for Maya 2025.
+NURBS/BRep direct modeling for Maya 2025 and 2026.
 Built on OpenCASCADE. Inspired by Plasticity.
 
 [Download latest](https://github.com/ytsejam/supra-modeler/releases/latest)
 
-**SHA256 (zip download):** `51440297c42eaa21cb8830fd2ed7ea92bc31ca425eaa5ecf9082ecbfde054f02`
+**SHA256 (Maya 2026 zip download):** `63d0f4c12c29d6c91c2e3b7b79bf4a834351b01f198c5842af6d236f972b764a`
 
-**SHA256 (MSD_Supra_Modeler.mll, signed):** `f300b5478775405ddfcdcb26b52cc47344fe88b3b8bfff9cd6cc719bed2e02cb`  
-[Verify on VirusTotal](https://www.virustotal.com/gui/file/f300b5478775405ddfcdcb26b52cc47344fe88b3b8bfff9cd6cc719bed2e02cb)
+**SHA256 (Maya 2026 MSD_Supra_Modeler.mll, signed):** `16a84ff249e1bc082079f96006aaaee9fd46b3ef1ec5c542a541f12ecd649485`  
+[Verify on VirusTotal](https://www.virustotal.com/gui/file/16a84ff249e1bc082079f96006aaaee9fd46b3ef1ec5c542a541f12ecd649485)
 
-**Requirements:** Maya 2025 · Windows 10/11 x64
+**SHA256 (Maya 2025 zip download):** `4b6b062e4271a03e5429a177e80513f106aff35c6fca964b3ddf3bae1d4bf8d6`
+
+**SHA256 (Maya 2025 MSD_Supra_Modeler.mll, signed):** `b63fe457a4f59df1553c0a880531251f64881d53d5bea40e177538e7c3883d53`  
+[Verify on VirusTotal](https://www.virustotal.com/gui/file/b63fe457a4f59df1553c0a880531251f64881d53d5bea40e177538e7c3883d53)
+
+**Requirements:** Maya 2025 or 2026 · Windows 10/11 x64
 
 **Install:**
 1. Load MSD_Supra_Modeler.mll in Plugin Manager
