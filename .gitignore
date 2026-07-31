@@ -37,3 +37,49 @@ desktop.ini
 # IDE
 .vs/
 *.user
+
+# ── Aggiunto 31-lug-2026: materiale di lavoro interno — MAI nel repo pubblico ──
+# Il repo pubblico contiene solo README/licenze/branding (verificato con
+# `git ls-files`: 14 file, nessun sorgente). Tutto il resto nella working
+# directory è materiale interno che non è mai stato pensato per finire qui —
+# stesso principio già applicato sopra ai sorgenti C++.
+
+# Log di sessione, regole di progetto, design doc, riferimenti esterni
+SUPRA_SESSION_STATE.md
+CLAUDE.md
+DESIGN_INDEXING_ENGINE.md
+GEOMETRIC_AUDIT_MATRIX.md
+REDESIGN_v3.md
+HOW TO BUILD.txt
+supra_nurbs_architecture.docx
+Master_CAD_Modellazione_Superfici_Creo_Parametric_v1.pdf
+
+# Sorgenti Python del plugin — distribuiti via zip di release, mai via git
+*.py
+
+# Script di lancio/build locali
+build_modeler.bat
+launch_maya_supra.bat
+
+# Alberi di build (nomi reali usati dal progetto, non "build/"/"Release/"
+# generico — per questo restavano untracked nonostante le regole sopra)
+build_2025/
+build_2026/
+
+# Cartelle di lavoro interne
+.claude/
+Brand/
+checkpoints/
+chisel/
+dist/
+fragments/
+release_docs/
+scripts/
+tests/
+texture/
+
+# Icone/asset sciolti in root, duplicati di assets/supraIcon_512.png (tracciato)
+/supraIcon.png
+/supraIcon_32.png
+/supraIcon_48.png
+/supraIcon_64.png
