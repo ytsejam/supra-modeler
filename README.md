@@ -3,10 +3,15 @@
 </p>
 
 # Supra Modeler
-![Supra Modeler](supraThumblink.jpg)
+![Supra Modeler](redesign2.png)
 
 NURBS/BRep direct modeling for Maya 2025 and 2026.
 Built on OpenCASCADE.
+
+A compact vertical toolbar keeps the main tools one click away, while a
+dockable panel holds parameters and settings — anchor it wherever fits
+your layout. Built so you never have to leave the viewport to keep
+working.
 
 [Download latest](https://github.com/ytsejam/supra-modeler/releases/latest)
 
