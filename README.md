@@ -10,15 +10,15 @@ Built on OpenCASCADE.
 
 [Download latest](https://github.com/ytsejam/supra-modeler/releases/latest)
 
-**SHA256 (Maya 2026 zip download):** `63d0f4c12c29d6c91c2e3b7b79bf4a834351b01f198c5842af6d236f972b764a`
+**SHA256 (Maya 2026 zip download):** `2db23ee24340c19aee97aa4f38eaf1a6f938b35dac3d4c068217fe3174ef47db`
 
-**SHA256 (Maya 2026 MSD_Supra_Modeler.mll, signed):** `16a84ff249e1bc082079f96006aaaee9fd46b3ef1ec5c542a541f12ecd649485`  
-[Verify on VirusTotal](https://www.virustotal.com/gui/file/16a84ff249e1bc082079f96006aaaee9fd46b3ef1ec5c542a541f12ecd649485)
+**SHA256 (Maya 2026 MSD_Supra_Modeler.mll, signed):** `0a15f340b006d665e8fd4d06df643ec6423c41c27c89ca475ff2c15f5eb5998e`  
+[Verify on VirusTotal](https://www.virustotal.com/gui/file/0a15f340b006d665e8fd4d06df643ec6423c41c27c89ca475ff2c15f5eb5998e)
 
-**SHA256 (Maya 2025 zip download):** `4b6b062e4271a03e5429a177e80513f106aff35c6fca964b3ddf3bae1d4bf8d6`
+**SHA256 (Maya 2025 zip download):** `21c81433763ccea0b90ce268cdfb7032235bcdcccab43e6207b313f578fe05b5`
 
-**SHA256 (Maya 2025 MSD_Supra_Modeler.mll, signed):** `b63fe457a4f59df1553c0a880531251f64881d53d5bea40e177538e7c3883d53`  
-[Verify on VirusTotal](https://www.virustotal.com/gui/file/b63fe457a4f59df1553c0a880531251f64881d53d5bea40e177538e7c3883d53)
+**SHA256 (Maya 2025 MSD_Supra_Modeler.mll, signed):** `afbfb70051219b5e1873035563cddc7570775ffa7e6770c4a2729876b74f427d`  
+[Verify on VirusTotal](https://www.virustotal.com/gui/file/afbfb70051219b5e1873035563cddc7570775ffa7e6770c4a2729876b74f427d)
 
 **Requirements:** Maya 2025 or 2026 · Windows 10/11 x64
 
